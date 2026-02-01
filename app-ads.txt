@@ -1,0 +1,13 @@
+# app-ads.txt for كش ملك
+# Created: 2026
+# Contact: owaxck2014@gmail.com
+
+# AdMob App ID
+google.com, pub-5478543227261743~3841544526, DIRECT, f08c47fec0942fa0
+
+# AdMob Banner Ad Unit
+google.com, pub-5478543227261743, 8327584442, DIRECT, f08c47fec0942fa0
+
+# AdMob Interstitial Ad Unit  
+google.com, pub-5478543227261743, 9245914449, DIRECT, f08c47fec0942fa0
+
