@@ -1,13 +1,20 @@
-# app-ads.txt for كش ملك
-# Created: 2026
+# app-ads.txt for Chess Game Application
+# Created: 2026-01-02
+# Updated: 2026-01-02
+# Application: Chess Game
+# Package Name: com.chess.game
+# Publisher ID: pub-5478543227261743~3841544526
 # Contact: owaxck2014@gmail.com
+# Website: https://owakcx2014.github.io/app-ads/app-ads.txt
 
-# AdMob App ID
+# ========== GOOGLE ADMOB ==========
+# Publisher Account
 google.com, pub-5478543227261743~3841544526, DIRECT, f08c47fec0942fa0
 
-# AdMob Banner Ad Unit
+# Banner Ad Unit (320x50)
 google.com, pub-5478543227261743, 8327584442, DIRECT, f08c47fec0942fa0
 
-# AdMob Interstitial Ad Unit  
+# Interstitial Ad Unit (Full Screen)
 google.com, pub-5478543227261743, 9245914449, DIRECT, f08c47fec0942fa0
 
+# ========== END OF FILE ==========
